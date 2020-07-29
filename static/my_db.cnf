@@ -1,0 +1,5 @@
+[client]
+database = info_data
+user = mydjango
+password = gregory
+default-character-set = utf8

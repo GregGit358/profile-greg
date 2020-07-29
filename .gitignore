@@ -1,8 +1,0 @@
-*.pyc
-*~
-/.vscode
-__pycache__
-myvenv
-info_data
-/static
-.DS_Store
